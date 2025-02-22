@@ -39,7 +39,7 @@ This project generates a weekly email report of bird sightings.
         *   Add a line similar to the following, **modifying the paths accordingly**:
 
             ```
-            0 6 * * Sun  /usr/bin/php /path/to/bird-email-report/php/email_generator.php
+            0 6 * * Sun  /usr/bin/php /path/to/Home/php/email_generator.php
             ```
 
             This will run the script every Sunday at 6:00 AM. The example will run the script at noon every Friday.
