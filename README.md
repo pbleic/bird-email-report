@@ -12,9 +12,10 @@ This project generates a weekly email report of bird sightings.
     *   `dplyr`
     *   `lubridate`
     Install these packages using `install.packages(c("httr", "jsonlite", "ggplot2", "dplyr", "lubridate"))` in R.
-*   **PHP:**
+*   **PHP (these should be automatically installed with PHP, but check):**
     *   `mbstring`
     *   `gd` (for image handling)
+    *   outside of PHP, you will also need to install composer (check instructions for your OS), along with the composer package: vlucas/phpdotenv
 
 ## Setup
 
