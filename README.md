@@ -1,4 +1,5 @@
 # Bird Email Report
+[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 
 This project generates a weekly email report of bird sightings.
 
