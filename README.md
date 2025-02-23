@@ -3,6 +3,9 @@
 
 This project generates a weekly email report of bird sightings.
 
+![Bird Report Preview](Home/images/sample_html_page.jpg)
+
+
 ## Dependencies
 
 *   **R:**
